@@ -4,11 +4,11 @@ layout: page
 
 ## Biography
 
-<img src="https://zhangyuwei-iscas.github.io/zhangyuwei.jfif" class="floatpic" width="360" height="480">
+<img src="https://zhangyw.work/zhangyuwei.jpg" class="floatpic" width="360" height="480">
 
-Here is **Yuwei Zhang (Even, 张俞炜)**.
+Here is **Yuwei Zhang (张俞炜)**.
 
-I am currently an assistant research fellow at [Technology Center of Software Engineering](http://www.tcse.cn/), [Institute of Software Chinese Academy of Sciences](http://www.iscas.ac.cn/). My research interests sit at the intersection of software engineering and artificial intelligence, with a focus on **intelligent software testing**. Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am currently an assistant research fellow at [Technology Center of Software Engineering](http://www.tcse.cn/), [Institute of Software Chinese Academy of Sciences](http://www.iscas.ac.cn/). My research interests sit at the intersection of software engineering and artificial intelligence, with a focus on **intelligent software testing**. Here is [[my CV](https://zhangyw.work/file/CV-Zhang.pdf)].
 
 <br>
 
@@ -28,6 +28,6 @@ Before that I obtained a bachelor degree from Beijing University of Posts and Te
 
 ## News and Updates
 
-- **Jun 2023：**Our paper "Automated Static Warning Identification via Path-based Semantic Representation" has been accepted by JOS(软件学报).
-- **Apr 2023：**Our paper "SAGA: Summarization-Guided Assert Statement Generation" has been accepted by JCST.
-- **May 2021：**I successfully defended my Ph.D. thesis. Cheers!
+- **Jun 2023: **Our paper "Automated Static Warning Identification via Path-based Semantic Representation" has been accepted by JOS(软件学报).
+- **Apr 2023: **Our paper "SAGA: Summarization-Guided Assert Statement Generation" has been accepted by JCST.
+- **May 2021: **I successfully defended my Ph.D. thesis. Cheers!
