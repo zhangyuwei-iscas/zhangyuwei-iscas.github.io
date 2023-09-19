@@ -4,20 +4,18 @@ layout: page
 
 ## Biography
 
-<img src="https://zhangyw.work/zhangyuwei.jpg" class="floatpic" width="360" height="480">
-
-I am currently an assistant research fellow at [Technology Center of Software Engineering](http://www.tcse.cn/), [Institute of Software Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/). My research interests sit at the intersection of software engineering and artificial intelligence, with a focus on **intelligent software testing**. Here is my [<font color="0000dd">Curriculum Vitae</font>](https://zhangyw.work/file/CV-Zhang.pdf).
+I am currently an assistant research fellow in the [<font color="0000dd">Technology Center of Software Engineering (TCSE)</font>](http://www.tcse.cn/) at the [<font color="0000dd">Institute of Software Chinese Academy of Sciences (ISCAS)</font>](http://www.iscas.ac.cn/). My research interests sit at the intersection of software engineering and artificial intelligence, with a focus on **intelligent software testing**. My research goal is to achieve effective software defect detection while facilitating timely software maintenance by combining the respective strengths of classical code analysis techniques and cutting-edge big model techniques. [<font color="0000dd">[View my Curriculum Vitae]</font>](https://zhangyw.work/file/CV-Zhang.pdf).
 
 ---
 
 ## Previous Work & Education Experience
 
-Before I came to ISCAS, I was a postdoc at [Key Laboratory of High Confidence Software Technologies (Peking University), Ministry of Education](http://hcst.pku.edu.cn/), hosted by Prof. [Zhi Jin](http://faculty.pku.edu.cn/zhijin) and Prof. [Ge Li](https://ligechina.github.io/).<br>I achieved a PhD degree from [School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications](https://scs.bupt.edu.cn/), advised by Prof. [Yunzhan Gong](https://scs.bupt.edu.cn/info/1292/2713.htm).<br>Before that I obtained a bachelor degree from Beijing University of Posts and Telecommunications, majored in Network Engineering.
+Before I came to ISCAS, I spent two years as a post-doctoral associate affiliated with the SEKE lab in the [<font color="0000dd">Key Laboratory of High Confidence Software Technologies, Ministry of Education</font>](http://hcst.pku.edu.cn/) at the [<font color="0000dd">Peking University (PKU)</font>](https://www.pku.edu.cn), hosted by Prof. [<font color="0000dd">Zhi Jin</font>](http://faculty.pku.edu.cn/zhijin) and Prof. [<font color="0000dd">Ge Li</font>](https://ligechina.github.io/).<br>I received my Ph.D. degree from [<font color="0000dd">School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications (BUPT)</font>](https://scs.bupt.edu.cn/), advised by Prof. [<font color="0000dd">Yunzhan Gong</font>](https://scs.bupt.edu.cn/info/1292/2713.htm). Before that I obtained my B.E. degree in Network Engineering from BUPT.
 
 ---
 
 ## News and Updates
 
-- **Jun 2023:** Our paper "Automated Static Warning Identification via Path-based Semantic Representation" has been accepted by JOS(软件学报).
+- **Jun 2023:** Our paper "Automated Static Warning Identification via Path-Based Semantic Representation" has been accepted by JOS(软件学报).
 - **Apr 2023:** Our paper "SAGA: Summarization-Guided Assert Statement Generation" has been accepted by JCST.
 - **May 2021:** I successfully defended my Ph.D. thesis. Cheers!

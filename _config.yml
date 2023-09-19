@@ -10,11 +10,8 @@ owner:
   avatar: zhangyuwei.jpg
  # bio:
   email: zhangyuwei@otcaix.iscas.ac.cn
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: Wayne_bupt
-  # facebook: caihanlin2002
   github: zhangyuwei-iscas
-  #linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=ohszaiAAAAAJ&hl=zh-CN
   # instagram: lancecai2002
   # lastfm:
@@ -34,14 +31,14 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: Home
     url: /
-  - title: Resume
-    url: /file/CV-Zhang.pdf
   - title: Publications
     url: /publications/
   - title: Service
     url: /service/
   - title: Awards
     url: /awards/
+  - title: Resume
+    url: /file/CV-Zhang.pdf
   #- title: Hobbies
   #  url: /hobbies/
   #- title: Blogs
@@ -77,7 +74,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: zhang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
