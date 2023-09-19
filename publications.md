@@ -4,31 +4,39 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 27th Aug 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
-
-## Conference Paper
-
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://ieeexplore.ieee.org/abstract/document/10037387)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
-
-## Working Manuscript
-
-- BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)<br>AAAI Conference on Artificial Intelligence (AAAI 2024, CCF-A). Under review.<br>
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors MDPI Journal (IF: 3.847, JCR Q2). Under major modification.<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
-
-  <br>
+Lastest Update: 19th Sep 2023&nbsp; [DBLP](https://dblp.uni-trier.de/pid/95/8351-3.html)
+**NOTE: <u>Corresponding Author</u>**
 
 ---
 
-## Undergraduate Thesis
+## In-Submission
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final year project, under working!<br>Expect to publish a research paper in Internet of Things Journal (IoTJ 2024)
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Thesis in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+- Ying Xing, Mengci Zhao, Bin Yang, **<u>Yuwei Zhang</u>**, Wenjin Li, Jiawei Gu, Jun Yuan<br>Defect Category Prediction Based on Multi-Source Domain Adaptation<br>
 
-## Competition Paper
+- **<u>Yuwei Zhang</u>**, Zhi Jin, Ying Xing, Ge Li<br>Automatic Bug Fixing in the Era of Large Language Models: Interactive Simulation of Programmer Behavior<br>
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo (Advisor: Zhezhuang Xu)<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
+- **<u>Yuwei Zhang</u>**, Ge Li, Ying Xing, Zhi Jin<br>RepeatNPR: Improving Neural Program Repair using Program Dependence Analysis and Filter Mechanism<br>
+
+-  Dongming Zhu, <u>Yawen Wang</u>, Boyang Zheng, Dahai Jin, **Yuwei Zhang**<br>SEMVul: Semantic-Driven Multi-Channel Image Construction for Enhanced Vulnerability Detection<br>
+
+## Refereed Journal & Conference
+
+### 2023
+
+- **Yuwei Zhang**, Ying Xing, Ge Li, <u>Zhi Jin</u>.<br>[Automated Static Warning Identification via Path-based Semantic Representation (基于路径语义表示的静态警报自动确认方法)](https://arxiv.org/abs/2306.15568)<br>In: *Journal of Software (软件学报)*** [CCF-A]**<br>
+
+- **Yuwei Zhang**, <u>Zhi Jin</u>, Zejun Wang, Ying Xing, Ge Li<br>[SAGA: Summarization-Guided Assert Statement Generation](https://arxiv.org/abs/2305.14808)<br>In: *Journal of Computer Science and Technology (JCST)*** [CCF-B]**<br>
+
+### 2022
+
+- Yanyang Zhao, <u>Yawen Wang</u>, **Yuwei Zhang**, Dalin Zhang, Yunzhan Gong, Dahai Jin<br>[ST-TLF: Cross-Version Defect Prediction Framework Based on Transfer Learning](https://www.sciencedirect.com/science/article/abs/pii/S095058492200088X?via%3Dihub)<br>In: *Information and Software Technology (IST)*** [CCF-B]**<br>
+
+- <u>Ying Xing</u>, Xiaomeng Qian, Yu Guan, Bin Yang, **Yuwei Zhang**<br>[Cross-Project Defect Prediction Based on G-LSTM Model](https://www.sciencedirect.com/science/article/abs/pii/S0167865522001519?via%3Dihub)<br>In: *Pattern Recognition Letters (PRL)*** [CCF-C]**<br>
+
+### 2020
+
+- **<u>Yuwei Zhang</u>**, Dahai Jin, Ying Xing, Yunzhan Gong<br>[Automated Defect Identification via Path Analysis-Based Features with Transfer Learning](https://www.sciencedirect.com/science/article/pii/S0164121220300662?via%3Dihub)<br>In: *Journal of Systems and Software (JSS)*** [CCF-B]**<br>
+
+### 2019
+
+- **<u>Yuwei Zhang</u>**, Ying Xing, Yunzhan Gong, Dahai Jin, Honghui Li, Feng Liu<br>[A Variable-Level Automated Defect Identification Model Based on Machine Learning](https://link.springer.com/article/10.1007/s00500-019-03942-3)<br>In: *Soft Computing*** [CCF-C]**<br>
