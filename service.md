@@ -6,20 +6,20 @@ title: Service
 
 ## External Reviewer
 
-- **ICST** 2023<br>
-- **ICSOC** 2023<br>
-- **APSEC** 2023<br>
-- **SANER** 2023<br>
-- **ICSE-SEIP** 2022<br>
+- **ICST** 2023
+- **ICSOC** 2023
+- **APSEC** 2023
+- **SANER** 2023
+- **ICSE-SEIP** 2022
 
 ---
 
 ## Membership
 
-- China Computer Federation (CCF) Member<br>
+- China Computer Federation (CCF) Member: 2021 -- present
 
 ---
 
 ## Teaching
 
-- **Formal Language and Automata**, Teaching Assistant, Peking University, 2021<br>
+- **Formal Language and Automata**, Teaching Assistant, Peking University, 2021
