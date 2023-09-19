@@ -1,4 +1,4 @@
-# GuangLun means Nimbus in Chinese
+# HI~
 
 My name is **Yuwei Zhang (张俞炜)**. Here is my personal website.
 

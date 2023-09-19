@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 19th Sep 2023&nbsp; [DBLP](https://dblp.uni-trier.de/pid/95/8351-3.html)
+Lastest Update: 19th Sep 2023&nbsp; [DBLP](https://dblp.uni-trier.de/pid/95/8351-3.html)<br>
 **NOTE: <u>Corresponding Author</u>**
 
 ---
