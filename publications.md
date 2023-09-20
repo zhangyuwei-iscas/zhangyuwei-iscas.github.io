@@ -12,11 +12,8 @@ Lastest Update: 19th Sep 2023&nbsp; [<font color="0000dd">[DBLP]</font>](https:/
 ## In-Submission
 
 - Ying Xing, Mengci Zhao, Bin Yang, **<u>Yuwei Zhang</u>**, Wenjin Li, Jiawei Gu, Jun Yuan<br>Defect Category Prediction Based on Multi-Source Domain Adaptation
-
 - **<u>Yuwei Zhang</u>**, Zhi Jin, Ying Xing, Ge Li<br>STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing
-
 - **<u>Yuwei Zhang</u>**, Ge Li, Ying Xing, Zhi Jin<br>Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism
-
 -  Dongming Zhu, <u>Yawen Wang</u>, Boyang Zheng, Dahai Jin, **Yuwei Zhang**<br>SEMVul: Semantic-Driven Multi-Channel Image Construction for Enhanced Vulnerability Detection
 
 ---
