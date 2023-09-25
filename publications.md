@@ -4,16 +4,22 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 19th Sep 2023&nbsp; [<font color="0000dd">[DBLP]</font>](https://dblp.uni-trier.de/pid/95/8351-3.html)<br>
+Lastest Update: 19th Sep 2023&nbsp; [<font color="0000dd">[DBLP]</font>](https://dblp.uni-trier.de/pid/95/8351-3.html)
 
 ---
 
 ## In-Submission
 
-- Ying Xing, Mengci Zhao, Bin Yang, **Yuwei Zhang** <sup>✉️</sup>, Wenjin Li, Jiawei Gu, Jun Yuan<br>Defect Category Prediction Based on Multi-Source Domain Adaptation
-- **Yuwei Zhang**<sup>✉️</sup>, Zhi Jin, Ying Xing, Ge Li<br>STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing
-- **Yuwei Zhang**<sup>✉️</sup>, Ge Li, Ying Xing, Zhi Jin<br>Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism
--  Dongming Zhu, Yawen Wang<sup>✉️</sup>, Boyang Zheng, Dahai Jin, **Yuwei Zhang**<br>SEMVul: Semantic-Driven Multi-Channel Image Construction for Enhanced Vulnerability Detection
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
+    <tr>
+	  Ying Xing, Mengci Zhao, Bin Yang, <strong>Yuwei Zhang</strong> <sup>✉️</sup>, Wenjin Li, Jiawei Gu, Jun Yuan<br><strong>Defect Category Prediction Based on Multi-Source Domain Adaptation</strong><br>
+	  <strong>Yuwei Zhang</strong> <sup>✉️</sup>, Zhi Jin, Ying Xing, Ge Li<br><strong>STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing</strong><br>
+	  <strong>Yuwei Zhang</strong> <sup>✉️</sup>, Ge Li, Ying Xing, Zhi Jin<br><strong>Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism</strong><br>
+	  Dongming Zhu, Yawen Wang<sup>✉️</sup>, Boyang Zheng, Dahai Jin, <strong>Yuwei Zhang</strong> <br><strong>SEMVul: Semantic-Driven Multi-Channel Image Construction for Enhanced Vulnerability Detection</strong>
+	</tr>
+  </tbody>
+</table>
 
 ---
 
