@@ -4,7 +4,7 @@ layout: page
 
 ## Biography
 
-I am currently an assistant research fellow in the [<font color="0000dd">Technology Center of Software Engineering (TCSE)</font>](http://www.tcse.cn/) at the [<font color="0000dd">Institute of Software Chinese Academy of Sciences (ISCAS)</font>](http://www.iscas.ac.cn/). My research interests lie in the intersection of software engineering and artificial intelligence, with a focus on **intelligent software testing**. The objective of my research is to achieve effective software defect detection while facilitating timely software maintenance by combining the respective strengths of classical code analysis techniques and cutting-edge big model techniques. [<font color="0000dd">[View my Curriculum Vitae]</font>](https://zhangyw.work/file/CV-Zhang.pdf) (updated in Sep 2023).
+I am currently an assistant research fellow in the [<font color="0000dd">Technology Center of Software Engineering (TCSE)</font>](http://www.tcse.cn/) at the [<font color="0000dd">Institute of Software Chinese Academy of Sciences (ISCAS)</font>](http://www.iscas.ac.cn/). My research interests lie in the intersection of software engineering and artificial intelligence, with a focus on **intelligent software testing**. The objective of my research is to achieve effective software testing while facilitating timely software maintenance by combining the respective strengths of classical code analysis techniques and cutting-edge big model techniques. [<font color="0000dd">[View my Curriculum Vitae]</font>](https://zhangyw.work/file/CV-Zhang.pdf) (updated in Sep 2023).
 
 ---
 
@@ -16,6 +16,6 @@ Before I came to ISCAS, I spent two years as a post-doctoral associate affiliate
 
 ## News
 
-- **Jun 2023:** Our paper "Automated Static Warning Identification via Path-Based Semantic Representation" has been accepted by JOS(软件学报).
-- **Apr 2023:** Our paper "SAGA: Summarization-Guided Assert Statement Generation" has been accepted by JCST.
-- **May 2021:** I successfully defended my Ph.D. thesis. Cheers!
+- **Jun 2023:** &#128640; Our paper "Automated Static Warning Identification via Path-Based Semantic Representation" has been accepted by JOS(软件学报).
+- **Apr 2023:** &#128640; Our paper "SAGA: Summarization-Guided Assert Statement Generation" has been accepted by JCST.
+- **May 2021:** &#127881; I successfully defended my Ph.D. thesis. Cheers!
