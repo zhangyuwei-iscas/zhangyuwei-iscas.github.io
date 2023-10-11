@@ -21,7 +21,7 @@ Lastest Update: 19th Sep 2023&nbsp; [<font color="0000dd">[DBLP]</font>](https:/
 
 ### 2023
 
-- **Yuwei Zhang**, Ying Xing, Ge Li, Zhi Jin <sup>✉️</sup>.<br>Automated Static Warning Identification via Path-based Semantic Representation (基于路径语义表示的静态警报自动确认方法) [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2023JOS_tmp.pdf)<br>In: *Journal of Software (软件学报)* **[CCF-A]**
+- **Yuwei Zhang**, Ying Xing, Ge Li, Zhi Jin <sup>✉️</sup>.<br>Automated Static Warning Identification via Path-based Semantic Representation (基于路径语义表示的静态警报自动确认方法) [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2023JOS.pdf)<br>In: *Journal of Software (软件学报)* **[CCF-A]**
 - **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Zejun Wang, Ying Xing, Ge Li<br>SAGA: Summarization-Guided Assert Statement Generation [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2023JCST_tmp.pdf)<br>In: *Journal of Computer Science and Technology (JCST)* **[CCF-B]**
 
 ---
