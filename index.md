@@ -16,7 +16,7 @@ Before I came to ISCAS, I spent two years as a post-doctoral associate affiliate
 
 ## News
 
-- **Dec 2023:** &#128640; Our paper "Defect Category Prediction based on Multi-Source Domian Adaptation" has been accepted by JOS(软件学报).
-- **Jun 2023:** &#128640; Our paper "Automated Static Warning Identification via Path-Based Semantic Representation" has been accepted by JOS(软件学报).
-- **Apr 2023:** &#128640; Our paper "SAGA: Summarization-Guided Assert Statement Generation" has been accepted by JCST.
+- **Dec 2023:** &#128640; Our paper "SAGA: Summarization-Guided Assert Statement Generation" has been accepted by JCST (CCF-B).
+- **Dec 2023:** &#128640; Our paper "Defect Category Prediction based on Multi-Source Domian Adaptation" has been accepted by JOS(软件学报) (CCF-A 中文).
+- **Jun 2023:** &#128640; Our paper "Automated Static Warning Identification via Path-Based Semantic Representation" has been accepted by JOS(软件学报) (CCF-A 中文).
 - **May 2021:** &#127881; I successfully defended my Ph.D. thesis. Cheers!
