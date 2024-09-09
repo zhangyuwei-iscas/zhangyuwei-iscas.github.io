@@ -4,13 +4,20 @@ permalink: /service/index.html
 title: Service
 ---
 
-## External Reviewer
+## External Conference Reviewer
 
-- **ICST** 2023
-- **ICSOC** 2023
-- **APSEC** 2023
-- **SANER** 2023
-- **ICSE-SEIP** 2022
+- 2024: **APSEC**, **QRS**
+- 2023: **SANER**, **APSEC**, **ICSOC**, **ICST**
+- 2022: **ICSE-SEIP**, **SANER**, **ISSRE**
+
+---
+
+## Journal Reviewer
+
+- **IEEE Transactions on Reliability**
+- **Knowledge and Information Systems**
+- **Scientific Reports**
+- **Journal of Supercomputing**
 
 ---
 
