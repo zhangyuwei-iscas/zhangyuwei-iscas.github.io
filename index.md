@@ -21,5 +21,7 @@ Before I came to ISCAS, I spent two years as a post-doctoral associate affiliate
 - **Dec 2023:** &#128640; Our paper "Defect Category Prediction based on Multi-Source Domian Adaptation" has been accepted by Journal of Software (软件学报) (CCF-A 中文).
 - **Sep 2023:** &#128640; Our paper "Automatic Foreign Function Interface Generation Method based on Source Code Analysis" has been accepted by Journal of Computer Applications (计算机应用) (CCF-B 中文).
 - **Sep 2023:** &#128640; Our paper "Vulnerability Name Prediction Based on Enhanced Multi-Source Domain Adaptation" has been accepted by TrustCom (CCF-C).
+- **Aug 2023:** &#127881; I am excited to join ISCAS as an Assistant Professor.
 - **Jun 2023:** &#128640; Our paper "Automated Static Warning Identification via Path-Based Semantic Representation" has been accepted by Journal of Software (软件学报) (CCF-A 中文).
+- **Sep 2021:** &#127881; I am excited to join PKU as a Post-Doctoral Research Fellow (working with Prof. Zhi Jin).
 - **May 2021:** &#127881; I successfully defended my Ph.D. thesis. Cheers!
