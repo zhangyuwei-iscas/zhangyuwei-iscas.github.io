@@ -18,12 +18,13 @@ title: Service
 - **Knowledge and Information Systems**
 - **Scientific Reports**
 - **Journal of Supercomputing**
+- **Engineering Applications of Artificial Intelligence**
 
 ---
 
 ## Membership
 
-- China Computer Federation (CCF) Member: 2021 -- present
+- **China Computer Federation (CCF) Member**: 2021 -- present
 
 ---
 
