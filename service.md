@@ -6,6 +6,7 @@ title: Service
 
 ## External Conference Reviewer
 
+- 2025: **SANER**
 - 2024: **APSEC**, **QRS**
 - 2023: **SANER**, **APSEC**, **ICSOC**, **ICST**
 - 2022: **ICSE-SEIP**, **SANER**, **ISSRE**
@@ -24,6 +25,7 @@ title: Service
 
 ## Membership
 
+- **China Computer Federation (CCF) Technical Committee of Software Engineering Executive Member**: 2024 -- present
 - **China Computer Federation (CCF) Member**: 2021 -- present
 
 ---

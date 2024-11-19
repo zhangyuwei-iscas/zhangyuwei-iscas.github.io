@@ -16,6 +16,7 @@ Before I came to ISCAS, I spent two years as a post-doctoral associate affiliate
 
 ## News
 
+- **Nov 2024:** &#127881; I am honored to become an executive member of the Technical Committee of Software Engineering (CCF TCSE)!
 - **Sep 2024:** &#127881; I am honored to be selected and funded by the Excellent Young Scientists of Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所优秀青年科技人才计划).
 - **Dec 2023:** &#128640; Our paper "SAGA: Summarization-Guided Assert Statement Generation" has been accepted by JCST (CCF-B).
 - **Dec 2023:** &#128640; Our paper "Defect Category Prediction based on Multi-Source Domian Adaptation" has been accepted by Journal of Software (软件学报) (CCF-A 中文).
