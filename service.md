@@ -20,6 +20,7 @@ title: Service
 - **Scientific Reports**
 - **Journal of Supercomputing**
 - **Engineering Applications of Artificial Intelligence**
+- **Journal of Software (软件学报)**
 
 ---
 
