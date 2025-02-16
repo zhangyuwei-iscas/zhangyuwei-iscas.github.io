@@ -19,7 +19,7 @@ Lastest Update: 17th Feb 2025&nbsp; [<font color="0000dd">[DBLP]</font>](https:/
 
 ### 2025
 
-- **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Ying Xing, Ge Li <sup>✉️</sup>, Fang Liu, Jiaxin Zhu, Wensheng Dou, Jun Wei <sup>✉️</sup><br>PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing
+- **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Ying Xing, Ge Li <sup>✉️</sup>, Fang Liu, Jiaxin Zhu, Wensheng Dou, Jun Wei <sup>✉️</sup><br>PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing<br>In: *Software Engineering and Methodology (TOSEM)* **[CCF-A]**
 
 ### 2024
 
