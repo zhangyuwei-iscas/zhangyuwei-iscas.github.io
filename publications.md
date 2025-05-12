@@ -20,7 +20,7 @@ Lastest Update: 12th May 2025&nbsp; [<font color="0000dd">[DBLP]</font>](https:/
 
 ### 2025
 
-- **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Ying Xing, Ge Li <sup>✉️</sup>, Fang Liu, Jiaxin Zhu, Wensheng Dou, Jun Wei <sup>✉️</sup><br>PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2025TOSEM.pdf)<br>In: *ACM Transactions on Software Engineering and Methodology (TOSEM)* **[CCF-A]**<br>[<font color="ff0000">[Invited to be presented at the FSE'25 Journal-First Track]</font>]
+- **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Ying Xing, Ge Li <sup>✉️</sup>, Fang Liu, Jiaxin Zhu, Wensheng Dou, Jun Wei <sup>✉️</sup><br>PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2025TOSEM.pdf)<br>In: *ACM Transactions on Software Engineering and Methodology (TOSEM)* **[CCF-A]**<br>&#128640;<font color="ff0000">[Invited to be presented at the FSE'25 Journal-First Track]</font>
 - **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Zejun Wang, Ying Xing, Ge Li<br>SAGA: Summarization-Guided Assert Statement Generation [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2023JCST_online.pdf)<br>In: *Journal of Computer Science and Technology (JCST)* **[CCF-B]**
 
 ### 2024
