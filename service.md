@@ -21,11 +21,14 @@ title: Service
 - **Journal of Supercomputing**
 - **Engineering Applications of Artificial Intelligence**
 - **Journal of Software (软件学报)**
+- **ACM Transactions on Autonomous and Adaptive Systems**
+- **ACM Transactions on Software Engineering and Methodology**
 
 ---
 
 ## Membership
 
+- **Association for Computing Machinery (ACM) Member**: 2025 -- present
 - **China Computer Federation (CCF) Technical Committee of Software Engineering Executive Member**: 2024 -- present
 - **China Computer Federation (CCF) Member**: 2021 -- present
 
