@@ -4,15 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 12th May 2025&nbsp; [<font color="0000dd">[DBLP]</font>](https://dblp.uni-trier.de/pid/95/8351-3.html)
-
----
-
-## In-Submission
-
-- **Yuwei Zhang**, Qingyuan Lu, Kai Liu, Wensheng Dou, Jiaxin Zhu <sup>✉️</sup>, Li Qian, Chunxi Zhang, Zheng Lin, Jun Wei <sup>✉️</sup><br>CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge
-- **Yuwei Zhang** <sup>✉️</sup>, Ge Li, Ying Xing, Zhi Jin<br>Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism
-- Dongming Zhu, Yawen Wang <sup>✉️</sup>, Boyang Zheng, Dahai Jin, **Yuwei Zhang**<br>SEMVul: Semantic-Driven Multi-Channel Image Construction for Enhanced Vulnerability Detection
+Lastest Update: 11th August 2025&nbsp; [<font color="0000dd">[DBLP]</font>](https://dblp.uni-trier.de/pid/95/8351-3.html)
 
 ---
 
@@ -20,6 +12,7 @@ Lastest Update: 12th May 2025&nbsp; [<font color="0000dd">[DBLP]</font>](https:/
 
 ### 2025
 
+- **Yuwei Zhang**, Qingyuan Lu, Kai Liu, Wensheng Dou, Jiaxin Zhu <sup>✉️</sup>, Li Qian, Chunxi Zhang, Zheng Lin, Jun Wei <sup>✉️</sup><br>CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge<br>In: *ACM Transactions on Software Engineering and Methodology (TOSEM)* **[CCF-A]**
 - **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Ying Xing, Ge Li <sup>✉️</sup>, Fang Liu, Jiaxin Zhu, Wensheng Dou, Jun Wei <sup>✉️</sup><br>PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2025TOSEM.pdf)<br>In: *ACM Transactions on Software Engineering and Methodology (TOSEM)* **[CCF-A]**<br>&#128640;<font color="ff0000">[Invited to be presented at the FSE'25 Journal-First Track]</font>
 - **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Zejun Wang, Ying Xing, Ge Li<br>SAGA: Summarization-Guided Assert Statement Generation [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2023JCST_online.pdf)<br>In: *Journal of Computer Science and Technology (JCST)* **[CCF-B]**
 
@@ -45,9 +38,4 @@ Lastest Update: 12th May 2025&nbsp; [<font color="0000dd">[DBLP]</font>](https:/
 ### 2020
 
 - **Yuwei Zhang** <sup>✉️</sup>, Dahai Jin, Ying Xing, Yunzhan Gong<br>Automated Defect Identification via Path Analysis-Based Features with Transfer Learning [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2020JSS.pdf)<br>In: *Journal of Systems and Software (JSS)* **[CCF-B]**
-
----
-
-### 2019
-
 - **Yuwei Zhang** <sup>✉️</sup>, Ying Xing, Yunzhan Gong, Dahai Jin, Honghui Li, Feng Liu<br>A Variable-Level Automated Defect Identification Model Based on Machine Learning [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2019SOCO.pdf)<br>In: *Soft Computing* **[CCF-C]**

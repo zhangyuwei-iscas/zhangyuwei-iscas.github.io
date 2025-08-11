@@ -6,7 +6,7 @@ title: Service
 
 ## External Conference Reviewer
 
-- 2025: **SANER**
+- 2025: **ASE**, **SANER**, **QRS**
 - 2024: **APSEC**, **QRS**
 - 2023: **SANER**, **APSEC**, **ICSOC**, **ICST**
 - 2022: **ICSE-SEIP**, **SANER**, **ISSRE**

@@ -16,6 +16,7 @@ Before I came to ISCAS, I spent two years as a post-doctoral associate affiliate
 
 ## News
 
+- **Aug 2025:** &#128640; Our paper "CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge" has been accepted by TOSEM (CCF-A).
 - **Apr 2025:** &#128640; **PATCH** has been accepted for presentation at the the Journal-First Track of FSE'25. Looking forward to share our latest results about LLM-driven bug fixing. Feel free to talk to us.
 - **Feb 2025:** &#128640; Our paper "PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing" has been accepted by TOSEM (CCF-A).
 - **Nov 2024:** &#127881; I am honored to become an executive member of the Technical Committee of Software Engineering (CCF TCSE)!
