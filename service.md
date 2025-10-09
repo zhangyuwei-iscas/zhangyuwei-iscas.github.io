@@ -6,7 +6,8 @@ title: Service
 
 ## External Conference Reviewer
 
-- 2025: **ASE**, **SANER**, **QRS**
+- 2026: **FSE**
+- 2025: **ASE**, **SANER**, **APSEC**, **QRS**
 - 2024: **APSEC**, **QRS**
 - 2023: **SANER**, **APSEC**, **ICSOC**, **ICST**
 - 2022: **ICSE-SEIP**, **SANER**, **ISSRE**
@@ -23,6 +24,7 @@ title: Service
 - **Journal of Software (软件学报)**
 - **ACM Transactions on Autonomous and Adaptive Systems**
 - **ACM Transactions on Software Engineering and Methodology**
+- **Software Quality Journal**
 
 ---
 
