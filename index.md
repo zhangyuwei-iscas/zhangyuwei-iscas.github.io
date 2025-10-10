@@ -4,7 +4,7 @@ layout: page
 
 ## Biography
 
-I am currently an associate professor in the [<font color="0000dd">Technology Center of Software Engineering (TCSE)</font>](http://www.tcse.cn/) at the [<font color="0000dd">Institute of Software Chinese Academy of Sciences (ISCAS)</font>](http://www.iscas.ac.cn/). My research interests lie in the intersection of software engineering and artificial intelligence **(SE + AI)**. The objective of my research is to achieve automated and intelligent software development process, (i.e., coding, testing, and maintenance) by combining the respective strengths of classical program analysis techniques and cutting-edge code language models. [<font color="0000dd">[View my Curriculum Vitae]</font>](https://zhangyw.work/file/resume.pdf) (updated in Sep 2023).
+I am currently an associate professor in the [<font color="0000dd">Technology Center of Software Engineering (TCSE)</font>](http://www.tcse.cn/) at the [<font color="0000dd">Institute of Software Chinese Academy of Sciences (ISCAS)</font>](http://www.iscas.ac.cn/). My research sits at the intersection of software engineering and artificial intelligence **(SE + AI)**, with a focus on creating automated, intelligent software development processes. By integrating classical program analysis techniques with cutting-edge code language models, I aim to advance key aspects of the software lifecycle (including coding, testing, and maintenance) toward greater autonomy, reliability, and efficiency. [<font color="0000dd">[View my Curriculum Vitae]</font>](https://zhangyw.work/file/resume.pdf) (updated in Sep 2023).
 
 ---
 
