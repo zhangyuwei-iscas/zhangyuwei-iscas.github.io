@@ -10,17 +10,27 @@ Lastest Update: 11th August 2025&nbsp; [<font color="0000dd">[DBLP]</font>](http
 
 ## Refereed Journal & Conference
 
+### 2026
+
+- Xudong Xie, **Yuwei Zhang**, Wensheng Dou, Yu Gao, Ziyu Cui, Jiansen Song, Rui Yang, Jun Wei<br>RISE: Rule-Driven SQL Dialect Translation via Query Reduction<br>In: *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)* **[CCF-A]**
+
+---
+
 ### 2025
 
 - **Yuwei Zhang**, Qingyuan Lu, Kai Liu, Wensheng Dou, Jiaxin Zhu <sup>✉️</sup>, Li Qian, Chunxi Zhang, Zheng Lin, Jun Wei <sup>✉️</sup><br>CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2025TOSEM_B.pdf)<br>In: *ACM Transactions on Software Engineering and Methodology (TOSEM)* **[CCF-A]**
 - **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Ying Xing, Ge Li <sup>✉️</sup>, Fang Liu, Jiaxin Zhu, Wensheng Dou, Jun Wei <sup>✉️</sup><br>PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2025TOSEM_A.pdf)<br>In: *ACM Transactions on Software Engineering and Methodology (TOSEM)* **[CCF-A]**<br>&#128640;<font color="ff0000">[Invited to be presented at the FSE'25 Journal-First Track]</font>
 - **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Zejun Wang, Ying Xing, Ge Li<br>SAGA: Summarization-Guided Assert Statement Generation [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2025JCST.pdf)<br>In: *Journal of Computer Science and Technology (JCST)* **[CCF-B]**
 
+---
+
 ### 2024
 
 - Ying Xing, Mengci Zhao, Bin Yang, **Yuwei Zhang** <sup>✉️</sup>, Wenjin Li, Jiawei Gu, Jun Yuan<br>Defect Category Prediction Based on Multi-Source Domain Adaptation (基于多源域适应的缺陷类别预测方法) [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Xing2023JOS.pdf)<br>In: *Journal of Software (软件学报)* **[CCF-A]**
 - Shuo Sun, Wei Zhang, Wendi Feng <sup>✉️</sup>, **Yuwei Zhang**<br>Automatic Foreign Function Interface Generation Method based on Source Code Analysis (基于源码分析的自动化外部函数接口生成方法) [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Sun2023JCA.pdf)<br>In: *Journal of Computer Applications (计算机应用)* **[CCF-B]**
 - **Yuwei Zhang**, Ying Xing, Ge Li, Zhi Jin <sup>✉️</sup>.<br>Automated Static Warning Identification via Path-based Semantic Representation (基于路径语义表示的静态警报自动确认方法) [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2023JOS_online.pdf)<br>In: *Journal of Software (软件学报)* **[CCF-A]**
+
+---
 
 ### 2023
 
