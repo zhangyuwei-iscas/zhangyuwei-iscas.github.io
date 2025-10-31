@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 11th August 2025&nbsp; [<font color="0000dd">[DBLP]</font>](https://dblp.uni-trier.de/pid/95/8351-3.html)
+Lastest Update: 17th October 2025&nbsp; [<font color="0000dd">[DBLP]</font>](https://dblp.uni-trier.de/pid/95/8351-3.html)
 
 ---
 
@@ -12,7 +12,7 @@ Lastest Update: 11th August 2025&nbsp; [<font color="0000dd">[DBLP]</font>](http
 
 ### 2026
 
-- Xudong Xie, **Yuwei Zhang**, Wensheng Dou, Yu Gao, Ziyu Cui, Jiansen Song, Rui Yang, Jun Wei<br>RISE: Rule-Driven SQL Dialect Translation via Query Reduction<br>In: *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)* **[CCF-A]**
+- Xudong Xie, **Yuwei Zhang** <sup>✉️</sup>, Wensheng Dou <sup>✉️</sup>, Yu Gao, Ziyu Cui, Jiansen Song, Rui Yang, Jun Wei<br>RISE: Rule-Driven SQL Dialect Translation via Query Reduction<br>In: *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)* **[CCF-A]**
 
 ---
 
