@@ -10,7 +10,7 @@ owner:
   avatar: zhangyuwei.jpg
   description: Peerless.
  # bio:
-  email: zhangyuwei@otcaix.iscas.ac.cn
+  email: zhangyuwei@iscas.ac.cn
   twitter: Wayne_bupt
   github: zhangyuwei-iscas
   scholar: https://scholar.google.com/citations?user=ohszaiAAAAAJ&hl=zh-CN
@@ -38,8 +38,8 @@ links:
     url: /service/
   - title: Awards
     url: /awards/
-  - title: Resume
-    url: /file/resume.pdf
+  #- title: Resume
+  #  url: /file/resume.pdf
   #- title: Hobbies
   #  url: /hobbies/
   #- title: Blogs

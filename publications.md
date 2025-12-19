@@ -4,21 +4,24 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 17th October 2025&nbsp; [<font color="0000dd">[DBLP]</font>](https://dblp.uni-trier.de/pid/95/8351-3.html)
+Lastest Update: 2025-12-17&nbsp; [<font color="0000dd">[DBLP]</font>](https://dblp.uni-trier.de/pid/95/8351-3.html)
 
 ---
 
 ## Refereed Journal & Conference
 
+---
+
 ### 2026
 
+- Jian Peng, **Yuwei Zhang**, Wei Chen, Guoquan Wu, Wei Wang, Jun Wei<br>Toward Efficient Package Maintenance: An Empirical Study of Patch Sharing across Four Linux Distributions<br>In: *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)* **[CCF-A]**
 - Xudong Xie, **Yuwei Zhang** <sup>✉️</sup>, Wensheng Dou <sup>✉️</sup>, Yu Gao, Ziyu Cui, Jiansen Song, Rui Yang, Jun Wei<br>RISE: Rule-Driven SQL Dialect Translation via Query Reduction<br>In: *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)* **[CCF-A]**
 
 ---
 
 ### 2025
 
-- **Yuwei Zhang**, Qingyuan Lu, Kai Liu, Wensheng Dou, Jiaxin Zhu <sup>✉️</sup>, Li Qian, Chunxi Zhang, Zheng Lin, Jun Wei <sup>✉️</sup><br>CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2025TOSEM_B.pdf)<br>In: *ACM Transactions on Software Engineering and Methodology (TOSEM)* **[CCF-A]**
+- **Yuwei Zhang**, Qingyuan Lu, Kai Liu, Wensheng Dou, Jiaxin Zhu <sup>✉️</sup>, Li Qian, Chunxi Zhang, Zheng Lin, Jun Wei <sup>✉️</sup><br>CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2025TOSEM_B.pdf)<br>In: *ACM Transactions on Software Engineering and Methodology (TOSEM)* **[CCF-A]**<br>&#128640;<font color="ff0000">[Invited to be presented at the ICSE'26 Journal-First Track]</font>
 - **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Ying Xing, Ge Li <sup>✉️</sup>, Fang Liu, Jiaxin Zhu, Wensheng Dou, Jun Wei <sup>✉️</sup><br>PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2025TOSEM_A.pdf)<br>In: *ACM Transactions on Software Engineering and Methodology (TOSEM)* **[CCF-A]**<br>&#128640;<font color="ff0000">[Invited to be presented at the FSE'25 Journal-First Track]</font>
 - **Yuwei Zhang**, Zhi Jin <sup>✉️</sup>, Zejun Wang, Ying Xing, Ge Li<br>SAGA: Summarization-Guided Assert Statement Generation [<font color="0000dd">[PDF]</font>](https://zhangyw.work/file/papers/Zhang2025JCST.pdf)<br>In: *Journal of Computer Science and Technology (JCST)* **[CCF-B]**
 
