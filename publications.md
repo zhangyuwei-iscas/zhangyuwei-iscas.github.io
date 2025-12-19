@@ -14,7 +14,7 @@ Lastest Update: 2025-12-17&nbsp; [<font color="0000dd">[DBLP]</font>](https://db
 
 ### 2026
 
-- Jian Peng, **Yuwei Zhang**, Wei Chen, Guoquan Wu, Wei Wang, Jun Wei<br>Toward Efficient Package Maintenance: An Empirical Study of Patch Sharing across Four Linux Distributions<br>In: *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)* **[CCF-A]**
+- Jian Peng, Jiaxin Zhu, **Yuwei Zhang**, Wei Chen, Guoquan Wu, Wei Wang, Jun Wei<br>Toward Efficient Package Maintenance: An Empirical Study of Patch Sharing across Four Linux Distributions<br>In: *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)* **[CCF-A]**
 - Xudong Xie, **Yuwei Zhang** <sup>✉️</sup>, Wensheng Dou <sup>✉️</sup>, Yu Gao, Ziyu Cui, Jiansen Song, Rui Yang, Jun Wei<br>RISE: Rule-Driven SQL Dialect Translation via Query Reduction<br>In: *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)* **[CCF-A]**
 
 ---
