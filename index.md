@@ -31,4 +31,4 @@ Before I came to ISCAS, I spent two years as a post-doctoral associate affiliate
 - &#127881; **[2023-08-07]** I am excited to join ISCAS as an Assistant Professor.
 - &#128640; **[2023-06-07]** Our paper "Automated Static Warning Identification via Path-Based Semantic Representation" has been accepted by Journal of Software (软件学报) (CCF-A 中文).
 - &#127881; **[2021-09-09]** I am excited to join PKU as a Post-Doctoral Research Fellow (working with Prof. Zhi Jin).
-- &#127881; **[2023-05-21]** I successfully defended my Ph.D. thesis. Cheers!
+- &#127881; **[2021-05-21]** I successfully defended my Ph.D. thesis. Cheers!
