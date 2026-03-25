@@ -16,6 +16,7 @@ Before I came to ISCAS, I spent two years as a post-doctoral associate affiliate
 
 ## News
 
+- &#128640; **[2026-03-25]** Our paper "Understanding Code Similarity across Instruction Set Architectures: An Empirical Study" has been accepted by FSE 2026 (CCF-A).
 - &#128640; **[2025-12-17]** Our paper "Toward Efficient Package Maintenance: An Empirical Study of Patch Sharing across Four Linux Distributions" has been accepted by ICSE 2026 (CCF-A).
 - &#128640; **[2025-12-10]** **CITYWALK** has been accepted for presentation at the the Journal-First Track of ICSE'26. Looking forward to share our latest results about C++ unit test generation. Feel free to talk to us.
 - &#128640; **[2025-10-16]** Our paper "RISE: Rule-Driven SQL Dialect Translation via Query Reduction" has been accepted by ICSE 2026 (CCF-A).
