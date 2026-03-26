@@ -14,7 +14,7 @@ Lastest Update: 2026-03-25&nbsp; [<font color="0000dd">[DBLP]</font>](https://db
 
 ### 2026
 
-- Haonan Yu, Jiaxin Zhu, Yingying Zheng, **Yuwei Zhang**, Wei Wang, Jun Wei, Tao Huang<br>Understanding Code Similarity across Instruction Set Architectures: An Empirical Study<br>In: *Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE)* **[CCF-A]**
+- Haonan Yu, Jiaxin Zhu, Yingying Zheng, **Yuwei Zhang**, Wei Wang, Jun Wei, Tao Huang<br>Understanding Code Similarity across Instruction Set Architectures: An Empirical Study<br>In: *Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE)* **[CCF-A]**
 - Jian Peng, Jiaxin Zhu, **Yuwei Zhang**, Wei Chen, Guoquan Wu, Wei Wang, Jun Wei<br>Toward Efficient Package Maintenance: An Empirical Study of Patch Sharing across Four Linux Distributions<br>In: *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)* **[CCF-A]**
 - Xudong Xie, **Yuwei Zhang** <sup>✉️</sup>, Wensheng Dou <sup>✉️</sup>, Yu Gao, Ziyu Cui, Jiansen Song, Rui Yang, Jun Wei<br>RISE: Rule-Driven SQL Dialect Translation via Query Reduction<br>In: *Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)* **[CCF-A]**
 
